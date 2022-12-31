@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Tammudu+2:wght@500;600&family=Lobster&family=Open+Sans:wght@300;400&family=Orbitron:wght@700&display=swap");
+.para {
+  letter-spacing: 3px;
+  font-family: "Baloo Tammudu 2";
+  font-weight: 700;
+}
+.title{
+    font-size: 100px;
+}
+.hero {
+  background-image: url("../../assets/images/space-bg.jpg");
+  //   background-image: url("../../assets/images/p3.jpg");
+  background-size: cover;
+  min-height: 100vh;
+  background-color: #7344a2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

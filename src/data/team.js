@@ -1,0 +1,81 @@
+const team = [
+  {
+    name: "fname lname",
+    position: "position",
+    img: "https://www.w3schools.com/images/colorpicker2000.png",
+    email: "email",
+    phone: "tel",
+  },
+  {
+    name: "fname lname",
+    position: "position",
+    img: "https://www.w3schools.com/images/colorpicker2000.png",
+    email: "email",
+    phone: "tel",
+  },
+  {
+    name: "fname lname",
+    position: "position",
+    img: "https://www.w3schools.com/images/colorpicker2000.png",
+    email: "email",
+    phone: "tel",
+  },
+  {
+    name: "fname lname",
+    position: "position",
+    img: "https://www.w3schools.com/images/colorpicker2000.png",
+    email: "email",
+    phone: "tel",
+  },
+  {
+    name: "fname lname",
+    position: "position",
+    img: "https://www.w3schools.com/images/colorpicker2000.png",
+    email: "email",
+    phone: "tel",
+  },
+  {
+    name: "fname lname",
+    position: "position",
+    img: "https://www.w3schools.com/images/colorpicker2000.png",
+    email: "email",
+    phone: "tel",
+  },
+  {
+    name: "fname lname",
+    position: "position",
+    img: "https://www.w3schools.com/images/colorpicker2000.png",
+    email: "email",
+    phone: "tel",
+  },
+  {
+    name: "fname lname",
+    position: "position",
+    img: "https://www.w3schools.com/images/colorpicker2000.png",
+    email: "email",
+    phone: "tel",
+  },
+  {
+    name: "fname lname",
+    position: "position",
+    img: "https://www.w3schools.com/images/colorpicker2000.png",
+    email: "email",
+    phone: "tel",
+  },
+  {
+    name: "fname lname",
+    position: "position",
+    img: "https://www.w3schools.com/images/colorpicker2000.png",
+    email: "email",
+    phone: "tel",
+  },
+  {
+    name: "fname lname",
+    position: "position",
+    img: "https://www.w3schools.com/images/colorpicker2000.png",
+    email: "email",
+    phone: "tel",
+  },
+];
+
+export { team };

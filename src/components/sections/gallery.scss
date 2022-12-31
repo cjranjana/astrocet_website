@@ -1,0 +1,22 @@
+.image-gallery {
+  max-width: 100%;
+  width: 1000px;
+}
+.testimonial-inner {
+  width: 100%;
+}
+
+.image-gallery-thumbnails {
+  overflow-x: scroll !important;
+}
+.image-gallery-thumbnails::-webkit-scrollbar {
+  height: 10px;
+}
+.image-gallery-thumbnails::-webkit-scrollbar-track {
+  background: #aa79dc;
+  border-radius: 5px;
+}
+.image-gallery-thumbnails::-webkit-scrollbar-thumb {
+  background: #1e0636;
+  border-radius: 5px;
+}
